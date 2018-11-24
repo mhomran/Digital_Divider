@@ -8,3 +8,4 @@ A/B
 ## This repository contains:-
 * A LogiSim project.
 * A Proteus project.
+* An Altium project.
