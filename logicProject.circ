@@ -62,7 +62,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="valign" val="base"/>
     </tool>
   </lib>
-  <lib desc="file#7400-lib.circ" name="7"/>
+  <lib desc="file#C:\Users\Mohamed Hassanin\Downloads\7400-lib.circ" name="7"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
@@ -101,31 +101,30 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(40,390)" to="(100,390)"/>
     <wire from="(100,50)" to="(100,120)"/>
     <wire from="(320,180)" to="(440,180)"/>
     <wire from="(130,250)" to="(180,250)"/>
-    <wire from="(250,90)" to="(300,90)"/>
-    <wire from="(250,370)" to="(300,370)"/>
     <wire from="(410,110)" to="(530,110)"/>
-    <wire from="(70,390)" to="(120,390)"/>
     <wire from="(370,90)" to="(370,100)"/>
     <wire from="(410,390)" to="(580,390)"/>
     <wire from="(340,100)" to="(340,120)"/>
     <wire from="(140,130)" to="(140,210)"/>
     <wire from="(610,370)" to="(710,370)"/>
     <wire from="(140,260)" to="(140,280)"/>
-    <wire from="(380,350)" to="(380,560)"/>
+    <wire from="(230,390)" to="(230,410)"/>
     <wire from="(150,290)" to="(180,290)"/>
     <wire from="(640,400)" to="(640,440)"/>
     <wire from="(120,70)" to="(120,170)"/>
     <wire from="(500,280)" to="(530,280)"/>
     <wire from="(220,50)" to="(220,150)"/>
-    <wire from="(290,330)" to="(300,330)"/>
     <wire from="(210,50)" to="(220,50)"/>
     <wire from="(500,300)" to="(500,350)"/>
     <wire from="(240,240)" to="(250,240)"/>
+    <wire from="(250,90)" to="(260,90)"/>
     <wire from="(70,270)" to="(80,270)"/>
-    <wire from="(60,380)" to="(70,380)"/>
+    <wire from="(160,390)" to="(230,390)"/>
+    <wire from="(350,350)" to="(350,410)"/>
     <wire from="(690,190)" to="(770,190)"/>
     <wire from="(100,50)" to="(170,50)"/>
     <wire from="(570,370)" to="(580,370)"/>
@@ -133,14 +132,15 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(610,380)" to="(660,380)"/>
     <wire from="(150,280)" to="(150,290)"/>
     <wire from="(770,190)" to="(770,640)"/>
-    <wire from="(380,350)" to="(430,350)"/>
+    <wire from="(50,420)" to="(50,430)"/>
     <wire from="(210,60)" to="(260,60)"/>
     <wire from="(320,170)" to="(320,180)"/>
     <wire from="(610,390)" to="(650,390)"/>
     <wire from="(350,240)" to="(350,260)"/>
+    <wire from="(270,300)" to="(270,450)"/>
     <wire from="(550,400)" to="(550,430)"/>
-    <wire from="(180,350)" to="(180,370)"/>
     <wire from="(660,380)" to="(660,460)"/>
+    <wire from="(160,340)" to="(200,340)"/>
     <wire from="(210,70)" to="(250,70)"/>
     <wire from="(390,120)" to="(390,150)"/>
     <wire from="(130,220)" to="(130,250)"/>
@@ -152,6 +152,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(550,380)" to="(580,380)"/>
     <wire from="(520,200)" to="(540,200)"/>
     <wire from="(610,400)" to="(640,400)"/>
+    <wire from="(240,370)" to="(240,410)"/>
     <wire from="(80,40)" to="(100,40)"/>
     <wire from="(80,120)" to="(100,120)"/>
     <wire from="(80,120)" to="(80,230)"/>
@@ -160,127 +161,137 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(250,170)" to="(320,170)"/>
     <wire from="(260,50)" to="(390,50)"/>
     <wire from="(710,370)" to="(710,380)"/>
-    <wire from="(250,300)" to="(500,300)"/>
     <wire from="(520,200)" to="(520,330)"/>
-    <wire from="(60,350)" to="(120,350)"/>
+    <wire from="(240,370)" to="(300,370)"/>
     <wire from="(250,270)" to="(250,280)"/>
+    <wire from="(200,340)" to="(200,350)"/>
+    <wire from="(160,110)" to="(160,310)"/>
+    <wire from="(270,450)" to="(320,450)"/>
     <wire from="(100,40)" to="(100,50)"/>
     <wire from="(340,120)" to="(390,120)"/>
     <wire from="(520,330)" to="(580,330)"/>
+    <wire from="(50,430)" to="(100,430)"/>
     <wire from="(70,170)" to="(120,170)"/>
     <wire from="(30,560)" to="(30,640)"/>
-    <wire from="(290,310)" to="(290,330)"/>
     <wire from="(500,280)" to="(500,300)"/>
     <wire from="(250,70)" to="(250,90)"/>
     <wire from="(250,150)" to="(250,170)"/>
-    <wire from="(250,350)" to="(250,370)"/>
     <wire from="(80,70)" to="(120,70)"/>
     <wire from="(100,210)" to="(140,210)"/>
+    <wire from="(160,310)" to="(200,310)"/>
+    <wire from="(260,90)" to="(300,90)"/>
     <wire from="(310,260)" to="(350,260)"/>
+    <wire from="(260,330)" to="(300,330)"/>
     <wire from="(700,360)" to="(700,380)"/>
     <wire from="(700,440)" to="(700,460)"/>
     <wire from="(690,190)" to="(690,210)"/>
     <wire from="(410,110)" to="(410,390)"/>
+    <wire from="(270,300)" to="(500,300)"/>
     <wire from="(530,70)" to="(530,110)"/>
     <wire from="(440,70)" to="(530,70)"/>
     <wire from="(30,560)" to="(380,560)"/>
     <wire from="(550,360)" to="(570,360)"/>
-    <wire from="(350,350)" to="(380,350)"/>
     <wire from="(340,100)" to="(370,100)"/>
     <wire from="(320,170)" to="(340,170)"/>
     <wire from="(610,360)" to="(700,360)"/>
+    <wire from="(250,300)" to="(270,300)"/>
+    <wire from="(370,430)" to="(380,430)"/>
     <wire from="(140,280)" to="(150,280)"/>
+    <wire from="(230,410)" to="(240,410)"/>
     <wire from="(650,390)" to="(650,450)"/>
-    <wire from="(180,350)" to="(250,350)"/>
+    <wire from="(40,420)" to="(50,420)"/>
     <wire from="(530,70)" to="(540,70)"/>
     <wire from="(690,440)" to="(690,450)"/>
-    <wire from="(290,310)" to="(350,310)"/>
     <wire from="(570,360)" to="(570,370)"/>
+    <wire from="(380,430)" to="(380,560)"/>
     <wire from="(130,220)" to="(440,220)"/>
     <wire from="(260,50)" to="(260,60)"/>
-    <wire from="(70,380)" to="(70,390)"/>
     <wire from="(120,70)" to="(170,70)"/>
     <wire from="(640,440)" to="(680,440)"/>
     <wire from="(650,450)" to="(690,450)"/>
     <wire from="(660,460)" to="(700,460)"/>
     <wire from="(680,350)" to="(680,380)"/>
     <wire from="(560,310)" to="(560,340)"/>
+    <wire from="(160,390)" to="(160,410)"/>
     <wire from="(250,280)" to="(250,300)"/>
+    <wire from="(260,90)" to="(260,110)"/>
     <wire from="(100,260)" to="(140,260)"/>
     <wire from="(550,380)" to="(550,400)"/>
     <wire from="(30,640)" to="(770,640)"/>
+    <wire from="(160,110)" to="(260,110)"/>
     <wire from="(220,150)" to="(250,150)"/>
     <wire from="(560,340)" to="(580,340)"/>
     <wire from="(70,170)" to="(70,270)"/>
+    <wire from="(320,410)" to="(350,410)"/>
+    <wire from="(380,430)" to="(410,430)"/>
     <wire from="(550,400)" to="(580,400)"/>
     <wire from="(610,350)" to="(680,350)"/>
     <wire from="(500,350)" to="(580,350)"/>
-    <wire from="(350,260)" to="(350,310)"/>
     <wire from="(610,340)" to="(690,340)"/>
     <wire from="(140,130)" to="(340,130)"/>
     <wire from="(570,360)" to="(580,360)"/>
-    <comp lib="1" loc="(310,260)" name="XOR Gate">
+    <comp lib="0" loc="(80,40)" name="Pin">
+      <a name="width" val="2"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="A"/>
+    </comp>
+    <comp lib="0" loc="(550,430)" name="Ground"/>
+    <comp lib="0" loc="(80,230)" name="Splitter"/>
+    <comp lib="1" loc="(350,350)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(390,150)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="0" loc="(240,240)" name="Power"/>
-    <comp lib="0" loc="(80,270)" name="Splitter"/>
     <comp lib="0" loc="(530,280)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="label" val="BI"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(550,430)" name="Ground"/>
-    <comp lib="0" loc="(80,40)" name="Pin">
-      <a name="width" val="2"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="A"/>
+    <comp lib="1" loc="(310,260)" name="XOR Gate">
+      <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(490,200)" name="AND Gate">
+    <comp lib="0" loc="(40,420)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="Bs"/>
+    </comp>
+    <comp lib="0" loc="(240,240)" name="Power"/>
+    <comp lib="6" loc="(42,257)" name="Text">
+      <a name="text" val="B"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="1" loc="(390,150)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(160,410)" name="XOR Gate">
       <a name="inputs" val="2"/>
     </comp>
     <comp lib="5" loc="(300,90)" name="LED">
       <a name="label" val="Fz"/>
     </comp>
-    <comp lib="1" loc="(180,370)" name="XOR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="7" loc="(610,330)" name="7448"/>
-    <comp lib="1" loc="(230,270)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="0" loc="(80,230)" name="Splitter"/>
-    <comp lib="0" loc="(430,350)" name="Pin">
+    <comp lib="0" loc="(410,430)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="label" val="S"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="6" loc="(35,577)" name="Text">
-      <a name="text" val="Note1: the seven segment doesn't turn off, it gives 8 instead, when you apply LOW on BL pin (library problem)"/>
-      <a name="halign" val="left"/>
-      <a name="valign" val="center"/>
+    <comp lib="5" loc="(360,240)" name="LED">
+      <a name="label" val="F/z"/>
+    </comp>
+    <comp lib="1" loc="(490,200)" name="AND Gate">
+      <a name="inputs" val="2"/>
     </comp>
     <comp lib="6" loc="(47,218)" name="Text">
       <a name="text" val="A"/>
       <a name="halign" val="left"/>
     </comp>
-    <comp lib="1" loc="(440,70)" name="OR Gate">
+    <comp lib="1" loc="(370,430)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="0" loc="(560,310)" name="Ground">
-      <a name="facing" val="north"/>
-    </comp>
-    <comp lib="0" loc="(80,70)" name="Pin">
-      <a name="width" val="2"/>
-      <a name="tristate" val="false"/>
-      <a name="label" val="B"/>
-    </comp>
-    <comp lib="0" loc="(550,360)" name="Power">
+    <comp lib="5" loc="(690,210)" name="7-Segment Display"/>
+    <comp lib="0" loc="(540,200)" name="Pin">
       <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="F1"/>
+      <a name="labelloc" val="east"/>
     </comp>
     <comp lib="0" loc="(540,70)" name="Pin">
       <a name="facing" val="west"/>
@@ -288,41 +299,43 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="F0"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="6" loc="(42,257)" name="Text">
-      <a name="text" val="B"/>
+    <comp lib="7" loc="(610,330)" name="7448"/>
+    <comp lib="0" loc="(80,270)" name="Splitter"/>
+    <comp lib="5" loc="(680,380)" name="7-Segment Display"/>
+    <comp lib="1" loc="(440,70)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(230,270)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="6" loc="(35,577)" name="Text">
+      <a name="text" val="Note1: the seven segment doesn't turn off, it gives 8 instead, when you apply LOW on BL pin (library problem)"/>
       <a name="halign" val="left"/>
+      <a name="valign" val="center"/>
     </comp>
-    <comp lib="0" loc="(60,380)" name="Pin">
+    <comp lib="0" loc="(550,360)" name="Power">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="0" loc="(630,320)" name="Power"/>
+    <comp lib="0" loc="(160,340)" name="Power"/>
+    <comp lib="0" loc="(80,70)" name="Pin">
+      <a name="width" val="2"/>
       <a name="tristate" val="false"/>
-      <a name="label" val="Bs"/>
+      <a name="label" val="B"/>
     </comp>
-    <comp lib="0" loc="(60,350)" name="Pin">
+    <comp lib="0" loc="(40,390)" name="Pin">
       <a name="tristate" val="false"/>
       <a name="label" val="As"/>
-    </comp>
-    <comp lib="5" loc="(690,210)" name="7-Segment Display"/>
-    <comp lib="5" loc="(360,240)" name="LED">
-      <a name="label" val="F/z"/>
     </comp>
     <comp lib="3" loc="(210,60)" name="Comparator">
       <a name="width" val="2"/>
       <a name="mode" val="unsigned"/>
     </comp>
-    <comp lib="0" loc="(540,200)" name="Pin">
-      <a name="facing" val="west"/>
-      <a name="output" val="true"/>
-      <a name="label" val="F1"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="6" loc="(33,605)" name="Text">
-      <a name="text" val="Note2: I use anode 7 segment and 7447 instead. (the standard library doesn't contain them.)"/>
-      <a name="halign" val="left"/>
-      <a name="valign" val="center"/>
-    </comp>
-    <comp lib="1" loc="(350,350)" name="AND Gate">
+    <comp lib="1" loc="(260,330)" name="XOR Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="5" loc="(680,380)" name="7-Segment Display"/>
-    <comp lib="0" loc="(630,320)" name="Power"/>
+    <comp lib="0" loc="(560,310)" name="Ground">
+      <a name="facing" val="north"/>
+    </comp>
   </circuit>
 </project>
